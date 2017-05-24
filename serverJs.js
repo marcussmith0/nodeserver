@@ -11,7 +11,7 @@ const server1 = http.createServer(
 
 const server2 = http.createServer(
     function(request, response) {
-        response.end("Fuck you bitch! " + request.ur);
+        response.end("forget about you b! " + request.ur);
     }
 );
 
